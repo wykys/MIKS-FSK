@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# wykys 2019
+
 import sig_load
 import sig_plot
 import numpy as np

@@ -1,3 +1,5 @@
+# wykys 2019
+
 def bin_print(byte_array: list, num_in_line: int = 8, space: str = ' | '):
     def bin_to_str(byte_array: list) -> str:
         return ''.join([

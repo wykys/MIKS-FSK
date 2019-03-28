@@ -1,3 +1,5 @@
+# wykys 2019
+
 import numpy as np
 from numpy import array, uint8
 from bin_print import bin_print

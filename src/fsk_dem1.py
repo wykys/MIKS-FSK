@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# wykys 2019
+
 from numpy import arange, sin, cos, pi, convolve, array, correlate
 import numpy as np
 

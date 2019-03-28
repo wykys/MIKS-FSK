@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# wykys 2019
 
 import numpy as np
 
@@ -26,5 +27,5 @@ if __name__ == '__main__':
     t = np.arange(0, 1/f, 1/fs)
     s1 = np.sin(2*np.pi*f*t)
     s2 = awgn(s1, 10)
-    sig_plot.subpot([s1, s2])
+    sig_plot.splitplot([s1, s2])
     sig_plot.show()

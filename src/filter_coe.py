@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# wykys 2019
+
 import numpy as np
 from scipy import signal
 from bell202 import SAMPLE_RATE, FREQ_H, FREQ_L

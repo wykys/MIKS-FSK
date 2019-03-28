@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# wykys 2019
+
 from matplotlib.pyplot import (
     plot,
     show,
